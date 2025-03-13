@@ -12,8 +12,8 @@ This project presents a comprehensive financial analysis of Walmart using Power 
 
 📊 Dashboard Preview
 
-![Dashboard Preview](https://raw.githubusercontent.com/Shirsendu9/Walmart-Financial-Analysis--Power-BI/main/Walmart%20Dashboard.png)
-
+[![Dashboard Preview](https://raw.githubusercontent.com/Shirsendu9/Walmart-Financial-Analysis--Power-BI/main/Walmart%20Dashboard.png)
+](https://raw.githubusercontent.com/Shirsendu9/Walmart-Financial-Analysis---Power-BI/refs/heads/main/Walmart%20Dashboard.png)
 
 
 
