@@ -56,8 +56,11 @@ This project presents a comprehensive financial analysis of Walmart using Power 
 ✔ The Current Ratio is below 1, which may indicate liquidity risks.
 
 📌 How to Access the Project?
+
 📥 Download the Power BI file from GitHub
+
 📊 Explore insights & customize your own analysis!
 
 ⭐ Want to Contribute?
+
 Feel free to fork this repo and modify it with new insights or visualizations! 
